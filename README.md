@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Javascript, React, Redux, HTML, CSS**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS**
 
 - 📫 How to reach me **Maximiliant6@gmail.com**
 
